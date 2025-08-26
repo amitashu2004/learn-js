@@ -1,1 +1,1 @@
-console.log("hi");
+console.log(" I will finish JS this week");
